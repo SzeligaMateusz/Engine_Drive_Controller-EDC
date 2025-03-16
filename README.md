@@ -30,7 +30,6 @@
 - **ESP32**: Wbudowany regulator napięcia 3,3V o prądzie 500mA - 1A. Maksymalne natężenie prądu przy pracy ESP32 jako Access Point (punkt dostępu WiFi z technologią AJAX): ~250-700mA.
 
 > [!CAUTION]
-> **Uwagi:**
 > - Serwa zwykle pracują na 5V i pobierają ~200-500mA, dlatego najlepiej podłączyć je do przetwornicy (GND-ESP/5V-Przetwornica/Sterowanie-ESP).
 > - Dane przedstawiają teoretyczne wartości i nie zostały potwierdzone testami fizycznymi.
 
@@ -45,7 +44,6 @@
 - **ESP32**: Wbudowany regulator akceptuje napięcie 5V wzwyż.
 
 > [!CAUTION]
-> **Uwagi:**
 > - Dane przedstawiają teoretyczne wartości i nie zostały potwierdzone testami fizycznymi.
 
 ---
