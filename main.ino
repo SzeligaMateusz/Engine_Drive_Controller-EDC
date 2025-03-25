@@ -1,8 +1,8 @@
 #include "RC_Tank_Driver.h"
 
 // Dane WiFi (SSID i hasło)
-const char* ssid = "PLAY_Swiatlowod_69A5";
-const char* password = "s5nZ7%2wEFEr";
+const char* ssid = "ssid";
+const char* password = "password";
 
 void setup() {
   driver_begin(ssid, password);
